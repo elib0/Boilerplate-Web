@@ -1,9 +1,9 @@
 var _path = require('path')
-  gulp = require('gulp')
-  less = require('gulp-less'),
-  concat = require('gulp-concat'),
-  uglify = require('gulp-uglify');
-  rename = require("gulp-rename");
+    gulp = require('gulp')
+    less = require('gulp-less'),
+    concat = require('gulp-concat'),
+    uglify = require('gulp-uglify');
+    rename = require("gulp-rename");
 
 //Less Plugins
 var LessPluginCleanCSS = require('less-plugin-clean-css'),
